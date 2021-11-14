@@ -22,6 +22,6 @@ function Blocks() {
 
 function ChildComponent(){
     console.log('child component is rendering therst block');
-    return <div> This is child component</div>
+    return <div> This is child component yes</div>
 }
 export default Blocks;
